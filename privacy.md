@@ -28,6 +28,8 @@ Sharing pauses when you leave the app or turn location off. Your live count is r
 
 Hapnstance+ is processed by Apple. We do not receive your full Apple ID or card number.
 
+Venues that book a sponsored night on the website pay through Stripe. Stripe processes the card; we receive the venue contact email, phone, and the venue and night details entered at checkout, and use them only to verify the venue and run the listing. App users never pay through Stripe.
+
 You can turn location off or close the app at any time. There is no account to delete.
 
 ## Contact
