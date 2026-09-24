@@ -12,4 +12,4 @@ Location is only used while the app is open. Sharing pauses when you leave.
 
 Hapnstance+ is an optional App Store subscription. Manage or cancel it in Apple ID → Subscriptions.
 
-Venues: book a sponsored night ($79 for 7 days) at [Venues](venues.html). It is paid on the website, not in the app.
+Venues: book a sponsored night ($79 for 7 days) at [Venues](venues.html). It is paid on the website via Stripe, not through Apple.
