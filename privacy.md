@@ -35,4 +35,4 @@ You can turn location off or close the app at any time. There is no account to d
 
 ## Contact
 
-Report a note in the app. For anything else, email bryan.soukup@gmail.com (APPealing Labs), also under You > Email in the app.
+Report a note in the app. For anything else, email HQ@appealinglabs.com (APPealing Labs), also under You > Email in the app.

@@ -2,7 +2,7 @@
 
 Need help with Hapnstance?
 
-Email **bryan.soukup@gmail.com** (also under You → Email in the app).
+Email **HQ@appealinglabs.com** (APPealing Labs) (also under You → Email in the app).
 
 Hapnstance is a live crowd map for public places. It is not a dating app. There are no profiles, photos, swipes, chat, or matches.
 
