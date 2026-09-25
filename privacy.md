@@ -6,7 +6,7 @@ Hapnstance is a real-world crowd map. It is not a dating app, chat app, or profi
 
 - Location, only while the app is open, to count you at a nearby public place.
 - Age, gender, orientation, interests, and why you are out - to filter aggregate crowd layers you choose to see.
-- Anonymous scene notes and vibe tags you choose to post.
+- Anonymous scene notes and vibe tags you choose to post. Each is stored with a one-way hash of the app's random session id (never your name, Apple ID, or device identifier) so that a report can hide that author's other notes and pause their posting. They expire after about 3 hours.
 - Optional swarm links you create. A swarm is a 4-hour token for one public pin. No names.
 - Venue claims: we store the public place, its website domain, the role you pick, and an optional short note. We never ask for or store email or phone numbers.
 - Crowd server: while you count at a public place we store a random anonymous session id with that place and the crowd traits above. It is deleted about 90 minutes after your last check-in, or right away when you turn off Show me on the map. Crowd traits are only shared when at least two people are at the same public place. We do not store names, IP addresses, or device identifiers in the crowd database; our host may keep standard short-lived request logs.
@@ -35,4 +35,4 @@ You can turn location off or close the app at any time. There is no account to d
 
 ## Contact
 
-Report a note in the app. For anything else, use the contact listed on the Hapnstance App Store page.
+Report a note in the app. For anything else, email bryan.soukup@gmail.com (APPealing Labs), also under You > Email in the app.
